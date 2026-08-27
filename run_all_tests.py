@@ -1,7 +1,7 @@
 """
-Comprehensive Test Runner for Problems 1 to 30
+Comprehensive Test Runner for Problems 1 to 40
 -----------------------------------------------
-Executes test suites across all 30 problem modules.
+Executes test suites across all 40 problem modules.
 """
 
 import sys

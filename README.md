@@ -1,6 +1,6 @@
-# Competitive Programming & DSA Python Solutions (30 Problems)
+# Competitive Programming & DSA Python Solutions (40 Problems)
 
-This directory contains well-structured, thoroughly documented Python solutions for 30 classic Data Structures & Algorithms and Competitive Programming problems.
+This directory contains well-structured, thoroughly documented Python solutions for 40 classic Data Structures & Algorithms and Competitive Programming problems.
 
 Each file includes:
 1. **Problem Statement & Constraints**
@@ -45,12 +45,22 @@ Each file includes:
 | 28 | Smallest Non-Negative Value | [problem_28_smallest_non_negative.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_28_smallest_non_negative.py) | Modulo Arithmetic | $O(1)$ | $O(1)$ |
 | 29 | Blobby Volley Scores | [problem_29_blobby_volley.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_29_blobby_volley.py) | State Machine Simulation | $O(N)$ | $O(1)$ |
 | 30 | Happy String (Consecutive Vowels) | [problem_30_happy_string.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_30_happy_string.py) | Sliding Consecutive Counter | $O(N)$ | $O(1)$ |
+| 31 | Triangle Quest | [problem_31_triangle_quest.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_31_triangle_quest.py) | Math / Repunit Arithmetic | $O(N)$ | $O(1)$ |
+| 32 | Triangle Quest 2 | [problem_32_triangle_quest_2.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_32_triangle_quest_2.py) | Math / Demlo Numbers | $O(N)$ | $O(1)$ |
+| 33 | Finding the Percentage | [problem_33_finding_the_percentage.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_33_finding_the_percentage.py) | Hash Map / Formatting | $O(1)$ | $O(1)$ |
+| 34 | No Idea! (Happiness Calculation) | [problem_34_no_idea.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_34_no_idea.py) | Hash Sets / Lookup | $O(N + M)$ | $O(M)$ |
+| 35 | sWAP cASE | [problem_35_swap_case.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_35_swap_case.py) | String Transformation | $O(N)$ | $O(N)$ |
+| 36 | Merge the Tools! | [problem_36_merge_the_tools.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_36_merge_the_tools.py) | Substring Deduplication | $O(N)$ | $O(N)$ |
+| 37 | Text Wrap | [problem_37_text_wrap.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_37_text_wrap.py) | String Chunking / Formatting | $O(N)$ | $O(N)$ |
+| 38 | Polar Coordinates | [problem_38_polar_coordinates.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_38_polar_coordinates.py) | Complex Numbers / Math | $O(1)$ | $O(1)$ |
+| 39 | Designer Door Mat | [problem_39_designer_door_mat.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_39_designer_door_mat.py) | String Formatting / Patterns | $O(N \times M)$ | $O(N \times M)$ |
+| 40 | Cartesian Product | [problem_40_cartesian_product.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_40_cartesian_product.py) | Combinatorics / Itertools | $O(\|A\| \times \|B\|)$ | $O(\|A\| \times \|B\|)$ |
 
 ---
 
 ## Running the Tests
 
-To run all 30 solutions at once:
+To run all 40 solutions at once:
 ```bash
 python run_all_tests.py
 ```
