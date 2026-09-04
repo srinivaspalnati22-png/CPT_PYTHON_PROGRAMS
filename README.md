@@ -1,6 +1,6 @@
-# Competitive Programming & DSA Python Solutions (40 Problems)
+# Competitive Programming & DSA Python Solutions (60 Problems)
 
-This directory contains well-structured, thoroughly documented Python solutions for 40 classic Data Structures & Algorithms and Competitive Programming problems.
+This directory contains well-structured, thoroughly documented Python solutions for 60 classic Data Structures & Algorithms and Competitive Programming problems.
 
 Each file includes:
 1. **Problem Statement & Constraints**
@@ -54,13 +54,33 @@ Each file includes:
 | 37 | Text Wrap | [problem_37_text_wrap.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_37_text_wrap.py) | String Chunking / Formatting | $O(N)$ | $O(N)$ |
 | 38 | Polar Coordinates | [problem_38_polar_coordinates.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_38_polar_coordinates.py) | Complex Numbers / Math | $O(1)$ | $O(1)$ |
 | 39 | Designer Door Mat | [problem_39_designer_door_mat.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_39_designer_door_mat.py) | String Formatting / Patterns | $O(N \times M)$ | $O(N \times M)$ |
-| 40 | Cartesian Product | [problem_40_cartesian_product.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_40_cartesian_product.py) | Combinatorics / Itertools | $O(\|A\| \times \|B\|)$ | $O(\|A\| \times \|B\|)$ |
+| 40 | Cartesian Product | [problem_40_cartesian_product.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_40_cartesian_product.py) | Combinatorics / Itertools | $O(|A| \times |B|)$ | $O(|A| \times |B|)$ |
+| 41 | Collections.Counter (Shoe Shop) | [problem_41_collections_counter.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_41_collections_counter.py) | Hash Map / Inventory Counter | $O(X + N)$ | $O(U)$ |
+| 42 | Piling Up! (Stacking Cubes) | [problem_42_piling_up.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_42_piling_up.py) | Two Pointers / Deque Greedy | $O(N)$ | $O(1)$ |
+| 43 | Maximize It! | [problem_43_maximize_it.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_43_maximize_it.py) | Combinatorics / Modulo Arithmetic | $O(N^K \times K)$ | $O(K)$ |
+| 44 | The Captain's Room | [problem_44_the_captains_room.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_44_the_captains_room.py) | Set Mathematics / Frequency Analysis | $O(N)$ | $O(U)$ |
+| 45 | Check Strict Superset | [problem_45_check_strict_superset.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_45_check_strict_superset.py) | Set Operations / Comparisons | $O(\sum |S_i|)$ | $O(N)$ |
+| 46 | Athlete Sort | [problem_46_athlete_sort.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_46_athlete_sort.py) | Stable Sorting / Timsort | $O(N \log N)$ | $O(N \times M)$ |
+| 47 | Validating Floating Point Number | [problem_47_validating_floating_point_number.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_47_validating_floating_point_number.py) | Regular Expressions / Parsing | $O(L)$ | $O(1)$ |
+| 48 | Zipped! (Student Average Scores) | [problem_48_zipped_average_scores.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_48_zipped_average_scores.py) | Matrix Transpose / Iteration | $O(N \times X)$ | $O(N)$ |
+| 49 | ginortS | [problem_49_ginorts.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_49_ginorts.py) | Multi-Criteria Custom Sort | $O(L \log L)$ | $O(L)$ |
+| 50 | Set .add() (Country Stamps) | [problem_50_set_add_country_stamps.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_50_set_add_country_stamps.py) | Hash Set / Deduplication | $O(N \times L)$ | $O(U \times L)$ |
+| 51 | Company Logo | [problem_51_company_logo.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_51_company_logo.py) | Frequency Count / Secondary Sort | $O(N + U \log U)$ | $O(U)$ |
+| 52 | Compress the String! | [problem_52_compress_the_string.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_52_compress_the_string.py) | Run-Length Encoding / Groupby | $O(N)$ | $O(N)$ |
+| 53 | Validating Credit Card Numbers | [problem_53_validating_credit_card_numbers.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_53_validating_credit_card_numbers.py) | Regular Expressions / Backreferences | $O(1)$ | $O(1)$ |
+| 54 | Collections.OrderedDict (Supermarket) | [problem_54_collections_ordereddict.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_54_collections_ordereddict.py) | Ordered Hash Map / Aggregation | $O(N \times L)$ | $O(U \times L)$ |
+| 55 | Complex Numbers Operations | [problem_55_complex_numbers.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_55_complex_numbers.py) | OOP / Complex Arithmetic | $O(1)$ | $O(1)$ |
+| 56 | Validating Roman Numerals | [problem_56_validating_roman_numerals.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_56_validating_roman_numerals.py) | Regular Expressions / Grammar | $O(1)$ | $O(1)$ |
+| 57 | Validating Phone Numbers | [problem_57_validating_phone_numbers.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_57_validating_phone_numbers.py) | Regular Expressions / Formatting | $O(1)$ | $O(1)$ |
+| 58 | Check Subset | [problem_58_check_subset.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_58_check_subset.py) | Set .issubset() Operations | $O(|A|)$ | $O(|A| + |B|)$ |
+| 59 | Iterables and Iterators | [problem_59_iterables_and_iterators.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_59_iterables_and_iterators.py) | Combinatorics / Probability | $O(1)$ | $O(1)$ |
+| 60 | Validating UID | [problem_60_validating_uid.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_60_validating_uid.py) | Rule-based Validation / Sets | $O(1)$ | $O(1)$ |
 
 ---
 
 ## Running the Tests
 
-To run all 40 solutions at once:
+To run all 60 solutions at once:
 ```bash
 python run_all_tests.py
 ```
