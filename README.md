@@ -1,6 +1,6 @@
-# Competitive Programming & DSA Python Solutions (60 Problems)
+# Competitive Programming & DSA Python Solutions (80 Problems)
 
-This directory contains well-structured, thoroughly documented Python solutions for 60 classic Data Structures & Algorithms and Competitive Programming problems.
+This directory contains well-structured, thoroughly documented Python solutions for 80 classic Data Structures & Algorithms and Competitive Programming problems.
 
 Each file includes:
 1. **Problem Statement & Constraints**
@@ -75,12 +75,32 @@ Each file includes:
 | 58 | Check Subset | [problem_58_check_subset.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_58_check_subset.py) | Set .issubset() Operations | $O(|A|)$ | $O(|A| + |B|)$ |
 | 59 | Iterables and Iterators | [problem_59_iterables_and_iterators.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_59_iterables_and_iterators.py) | Combinatorics / Probability | $O(1)$ | $O(1)$ |
 | 60 | Validating UID | [problem_60_validating_uid.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_60_validating_uid.py) | Rule-based Validation / Sets | $O(1)$ | $O(1)$ |
+| 61 | Coins And Triangle | [problem_61_coins_and_triangle.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_61_coins_and_triangle.py) | Math / Triangular Numbers | $O(1)$ | $O(1)$ |
+| 62 | Sort the Binary String | [problem_62_sort_binary_string.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_62_sort_binary_string.py) | Greedy / Inversion Counting | $O(N)$ | $O(1)$ |
+| 63 | Longest Alternating Substring | [problem_63_longest_alternating_substring.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_63_longest_alternating_substring.py) | Greedy / Frequency Balancing | $O(N)$ | $O(1)$ |
+| 64 | Hidden Numbers | [problem_64_hidden_numbers.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_64_hidden_numbers.py) | Math / Pairwise Minimums | $O(1)$ | $O(1)$ |
+| 65 | Final Position on X-axis | [problem_65_final_position_on_xaxis.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_65_final_position_on_xaxis.py) | Math / Coordinate Invariants | $O(1)$ | $O(1)$ |
+| 66 | Laptop Recommendation | [problem_66_laptop_recommendation.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_66_laptop_recommendation.py) | Hash Map / Frequency Analysis | $O(N)$ | $O(1)$ |
+| 67 | Cyclic Data Type | [problem_67_cyclic_data_type.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_67_cyclic_data_type.py) | Modulo Arithmetic / Capacity Wrap | $O(1)$ | $O(1)$ |
+| 68 | Favourite Number (Average Gift) | [problem_68_favourite_number_average.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_68_favourite_number_average.py) | Math / Arithmetic Progression | $O(1)$ | $O(1)$ |
+| 69 | Stone Pile Game | [problem_69_stone_pile_game.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_69_stone_pile_game.py) | Game Theory / Impartial Game | $O(N)$ | $O(1)$ |
+| 70 | Flip Binary String | [problem_70_flip_binary_string.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_70_flip_binary_string.py) | Greedy / Independent Sets | $O(N)$ | $O(1)$ |
+| 71 | Missing Doll | [problem_71_missing_doll.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_71_missing_doll.py) | Bitwise XOR / Parity | $O(N)$ | $O(1)$ |
+| 72 | Make All Elements Equal | [problem_72_make_all_elements_equal.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_72_make_all_elements_equal.py) | Frequency Count / Mode Analysis | $O(N)$ | $O(U)$ |
+| 73 | Balls and Boxes | [problem_73_balls_and_boxes.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_73_balls_and_boxes.py) | Pigeonhole Principle / Maximum | $O(N)$ | $O(1)$ |
+| 74 | Devu and Friendship Testing | [problem_74_devu_friendship_testing.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_74_devu_friendship_testing.py) | Hash Set / Deduplication | $O(N)$ | $O(N)$ |
+| 75 | Dominant Element | [problem_75_dominant_element.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_75_dominant_element.py) | Frequency Count / Strict Maximum | $O(N + U \log U)$ | $O(U)$ |
+| 76 | Fitness (Office Trips) | [problem_76_fitness_office_trips.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_76_fitness_office_trips.py) | Basic Arithmetic / Multiplication | $O(1)$ | $O(1)$ |
+| 77 | Buying Chocolates | [problem_77_buying_chocolates.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_77_buying_chocolates.py) | Integer Arithmetic / Division | $O(1)$ | $O(1)$ |
+| 78 | Candy Store | [problem_78_candy_store.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_78_candy_store.py) | Piecewise Functions / Arithmetic | $O(1)$ | $O(1)$ |
+| 79 | Alice, Bob, and Charlie Numbers | [problem_79_alice_bob_numbers.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_79_alice_bob_numbers.py) | Conditional Logic / Divisibility | $O(1)$ | $O(1)$ |
+| 80 | Valid Phone Number Bill | [problem_80_valid_phone_number_bill.py](file:///c:/Users/srini/OneDrive/Pictures/Documents/CPTPYTHONPROGRAMS/problem_80_valid_phone_number_bill.py) | Range Checking / Arithmetic | $O(1)$ | $O(1)$ |
 
 ---
 
 ## Running the Tests
 
-To run all 60 solutions at once:
+To run all 80 solutions at once:
 ```bash
 python run_all_tests.py
 ```
